@@ -2,7 +2,7 @@
 
 Projeto de uma calculadora remota que utiliza **JSON-RPC 2.0** e **HTTP-REST** para a comunicação entre cliente e servidor. O sistema realiza as quatro operações básicas e calcula expressões com parênteses, permitindo escolher se a expressão será interpretada no **cliente** ou no **servidor**.
 
-Desenvolvido para a atividade **AT03 — Invocação Remota e Comunicação Indireta**, da disciplina de Sistemas Distribuídos.
+Desenvolvido para a atividade **AT03 Invocação Remota e Comunicação Indireta**, da disciplina de Sistemas Distribuídos.
 
 ### Componentes
 
