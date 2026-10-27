@@ -1,0 +1,5 @@
+Verificação executada em 27/10/2026:
+python -m unittest discover -s outputs/calculadora -v
+
+5 testes executados; resultado: OK.
+Inclui comunicação HTTP local real em ambos os protocolos e servidor de falhas transitórias para Retry.
